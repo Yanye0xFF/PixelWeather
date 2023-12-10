@@ -10,3 +10,6 @@ precompiled bin file also provided, check `pixelweather3.0/bin/` and use `flash_
 
 Flash options，only support 4MB or above.  
 ![image](https://img2023.cnblogs.com/blog/1928719/202312/1928719-20231209212630858-1674974840.png)  
+
+### Documents
+https://www.cnblogs.com/yanye0xcc/p/14994806.html
