@@ -13,3 +13,4 @@ Flash options，only support 4MB or above.
 
 ### Documents
 https://www.cnblogs.com/yanye0xcc/p/14994806.html
+https://oshwhub.com/yanye/pixelweatherpcb
